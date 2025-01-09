@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @nopnarong
-- 👀 I’m interested in ios developer
-- 🌱 I’m currently learning ... swift
+- 👋 Hi, I’m Pond
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... hit me up
 
